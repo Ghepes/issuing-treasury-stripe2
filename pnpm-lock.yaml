@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@nodenv/node-build':
+        specifier: ^5.3.32
+        version: 5.3.32
+
+packages:
+
+  '@nodenv/node-build@5.3.32':
+    resolution: {integrity: sha512-6mOe44RBey8jyQIku7m+lsgiOcOwrs7qr1jOH33/P1bppBF62l5gUOHFm3Cjc/qecglFbSwFuqymJG2iH4z3Aw==}
+    hasBin: true
+
+snapshots:
+
+  '@nodenv/node-build@5.3.32': {}
